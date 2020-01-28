@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Parcel cache direcotry
+.cache/
+
+# Production Builds
+dist/
+
+# Firebase
+.firebase/
+firebase-debug.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
